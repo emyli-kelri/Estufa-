@@ -54,5 +54,23 @@ Os dados podem ser exibidos em tempo real no **Blynk** ou enviados via **MQTT** 
 
 ---
 
+## Autores
+
+- **Emyli Kelri Pereira**  
+  [LinkedIn](https://www.linkedin.com/in/emyli-kelri)
+
+- **Felipe Barbosa dos Santos**  
+  [LinkedIn](https://www.linkedin.com/in/felipe-barbosa-bbsnxt/)
+
+- **Felipe de Castro Alves**  
+  [LinkedIn](https://www.linkedin.com/in/felipe-de-castro-alves-328983245/)
+
+- **Leticia Gasques de Santana**  
+  [LinkedIn](https://www.linkedin.com/in/leticia-gasques/)
+
+- **Thallita Cardoso Tavares**  
+  [LinkedIn](https://www.linkedin.com/in/thallita-cardoso-tavares/)
+
+
 
 
